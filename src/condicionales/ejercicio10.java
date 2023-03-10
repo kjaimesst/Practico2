@@ -8,7 +8,6 @@ import java.util.Scanner;
  */
 public class ejercicio10 {
 
-public class PrecioUva {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double precioInicial, precioFinal;
@@ -42,4 +41,4 @@ public class PrecioUva {
     }
 }
 
-}
+
